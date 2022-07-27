@@ -189,7 +189,7 @@ toc:
 
 #版权
 post_copyright:
-  enable: false
+  enable: true
   decode: false
   author_href:
   license: CC BY-NC-SA 4.0
