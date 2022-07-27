@@ -1,3 +1,16 @@
+---
+title: 编译安装 php 7.4 no package ‘oniguruma’ found
+date: 2022-07-27 17:08:00
+tags:
+    - php
+    - Linux
+categories:
+    - Linux
+keywords: "Linux,php"
+top_img:
+cover: 
+---
+
 # 编译安装 php 7.4 no package ‘oniguruma’ found
 
 ### 错误日志

@@ -2,6 +2,7 @@
 title: linux查看端口占用
 date: 2022-07-27 15:50:30
 tags:
+    - Linux
 ---
 
 ## Linux 查看端口占用情况

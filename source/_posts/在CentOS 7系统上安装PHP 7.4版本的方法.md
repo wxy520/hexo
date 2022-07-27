@@ -1,3 +1,14 @@
+---
+title: 在CentOS 7系统上安装PHP 7.4版本的方法
+date: 2022-07-27 17:11:00
+tags:
+    - Linux
+categories:
+    - Linux
+keywords: "Java,php"
+top_img:
+cover: 
+---
 # 在CentOS 7系统上安装PHP 7.4版本的方法
 
 ##### 一、添加EPEL和REMI存储库

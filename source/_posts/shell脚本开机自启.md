@@ -1,3 +1,15 @@
+---
+title: shell脚本开机自启
+date: 2022-07-27 17:13:00
+tags:
+    - Linux
+    - shell
+categories:
+    - Linux
+keywords: "Linux,shell"
+top_img:
+cover: 
+---
 # shell脚本开机自启
 
 ### 1.将(脚本)启动文件移动到 /etc/init.d/或者/etc/rc.d/init.d/目录下。（前者是后者的软连接）
