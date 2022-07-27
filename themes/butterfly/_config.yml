@@ -460,10 +460,10 @@ google_adsense:
 # --------------------------------------
 
 site_verification:
-  # - name: google-site-verification
-  #   content: xxxxxx
-  # - name: baidu-site-verification
-  #   content: xxxxxxx
+   - name: google-site-verification
+     content: CatBlog
+   - name: baidu-site-verification
+     content: CatBlog
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
