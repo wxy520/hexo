@@ -2,6 +2,8 @@
 title: 文件夹因存在.git而无法提交到git的解决办法
 date: 2022-07-26 23:59:33
 tags:
+top_img:
+cover: 
 ---
 
 无法提交根本原因是next主题也是一个repo。
