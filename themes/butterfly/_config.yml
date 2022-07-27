@@ -90,7 +90,7 @@ disable_top_img: false
 index_img: /img/index.jpg
 
 # 如果没有设置页面的banner，会显示top_img
-default_top_img: /img/s1.jpg
+default_top_img: 
 
 # 存档页面的横幅图像
 archive_img:
