@@ -7,7 +7,7 @@ categories:
   - 服务器
 keywords: "域名服务器"
 top_img: 
-cover: 
+cover: https://cdn.jsdelivr.net/gh/wxy520/blogimg/img/202207281323219.png
 ---
 
 
