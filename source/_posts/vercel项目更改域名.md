@@ -1,5 +1,5 @@
 ---
-title: 免费申请一年域名
+title: vercel更改域名
 date: 2022/7/28 12:05:00
 tags:
   - 域名
